@@ -1,0 +1,29 @@
+_repo: The-Youth-s-Coronal_11432
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gould, Hannah Flagg
+    aliases:
+    - Gould, H. F. (Hannah Flagg)
+    - Gould, Hannah F. (Hannah Flagg)
+    birthdate: 1789
+    deathdate: 1865
+    gutenberg_agent_id: '3979'
+    url: http://www.gutenberg.org/2009/agents/3979
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_Flagg_Gould
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s poetry'
+- !lcc 'PS'
+- GITenberg
+title: The Youth's Coronal
+url: http://www.gutenberg.org/ebooks/11432
